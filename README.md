@@ -26,4 +26,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=arshiafarrokhi&icon=5&color=0)](https://visitcount.itsvg.in)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f63636&height=120&section=footer"/>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
