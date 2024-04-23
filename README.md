@@ -101,7 +101,7 @@
   
 <!--============================== Activity Graph ==============================--> 
 <h2 align="left"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.gif" alt="🛸" width="60" > &nbsp; Activity Graph </h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahramShakiba&theme=one-dark" alt="ShahramShakiba Activities"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Arshiafarrokhi&theme=one-dark" alt="Arshiafarrokhi Activities"/>
 
 <br/>
 <br/>
@@ -110,11 +110,4 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShahramShakiba&theme=onedark" alt="ShahramShakiba Trophies" /></a> </p>
 </div>
 
-### ✍️ Random Dev Quote
-
-<div id="header" align="center" width="100" >
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
----
-[![](https://visitcount.itsvg.in/api?id=arshiafarrokhi&icon=5&color=0)](https://visitcount.itsvg.in)
 
