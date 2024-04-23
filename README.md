@@ -11,14 +11,19 @@
 <div align='center'> 
   <h3>
    𝑯𝒆𝒚 𝒕𝒉𝒆𝒓𝒆 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="35" height="35" />
- 𝑰'𝒎 𝑺𝒉𝒂𝒉𝒓𝒂𝒎
+ 𝑰'𝒎 𝒂𝒓𝑺𝒉𝑰𝒂
   </h3>
 </div> <br>
 
 <!--=================================== ABOUT ME ====================================-->
-# 💫 About Me:
-🔭 I am currently looking for work<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about front-end<br>
+<h1> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/51f89720-05d3-4dac-b223-b6b81099a25f" alt="man with laptop" width="50" height="50" /> About me </h1> 
 
+> ### Crafting web interfaces that are both _Responsive_ and _User-friendly_ brings me great satisfaction. <br/><br/> I take pride in the fact that these interfaces enhance user experiences and simplify complex interactions, ultimately creating a more engaging Online Environment for _all users_. <br/>
+
+- #### In my role _` as a Developer `_, I am proactive in my pursuit of knowledge, constantly seeking ways to broaden my expertise <br/> and stay up-to-date with the latest industry trends and emerging technologies <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="18" > 
+
+- #### _` As an individual `_, I prioritize effective communication and possess a solid technical background. <br/> My commitment lies in developing strong relationships with my team members and clients <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/98f56d40-5e1f-43f3-83a5-3327edebe101" height="18" alt="hand shacking"  /> <br/> <br/>
+<!--=================================== SOCIAL ====================================-->
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arshia_farrokhi_web) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arshia-farrokhi-623911278) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22500233) 
 
