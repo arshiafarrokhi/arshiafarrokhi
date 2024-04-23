@@ -48,8 +48,6 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/framer-icon.svg" height="40" alt="Fremer logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 
 <br/>
 
@@ -72,10 +70,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" height="40" alt="Vercel logo"  />
   <img width="8" />
 
@@ -93,10 +87,10 @@
 <!--=================================== MY STATS ===================================-->
 <h2>  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" > &nbsp; 𝑺𝒕𝒂𝒕𝒊𝒄𝒔 </h2>
 <div align="center">
-<a href="https://github.com/ShahramShakiba">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahramShakiba&theme=onedark" height="180em" /> <br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ShahramShakiba&theme=one-dark-pro&fire=EB197C&border=EBDD83&ring=EBB250" height="180em" /> <br/><br/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahramShakiba&theme=onedark" height="180em" />&nbsp;&nbsp;&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahramShakiba&langs_count=8&theme=onedark" alt=ShahramShakiba /> 
+<a href="https://github.com/Arshiafarrokhi">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arshiafarrokhi&theme=onedark" height="180em" /> <br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Arshiafarrokhi&theme=one-dark-pro&fire=EB197C&border=EBDD83&ring=EBB250" height="180em" /> <br/><br/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arshiafarrokhi&theme=onedark" height="180em" />&nbsp;&nbsp;&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshiafarrokhi&langs_count=8&theme=onedark" alt=Arshiafarrokhi /> 
 </div>
   
 <!--============================== Activity Graph ==============================--> 
@@ -107,7 +101,7 @@
 <br/>
 <!--============================== MY Trophy ==============================-->
 <div id="header" align="center" >
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShahramShakiba&theme=onedark" alt="ShahramShakiba Trophies" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arshiafarrokhi&theme=onedark" alt="Arshiafarrokhi Trophies" /></a> </p>
 </div>
 
 
