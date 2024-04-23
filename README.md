@@ -1,6 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=f63636&height=400&section=header&text=Arshia%20Farrokhi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%20im%20Arshia%20please%20follow%20my%20github!&descAlignY=51&descAlign=62)
+<meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
 
+<!--============================== WELCOME IMAGE ==============================-->
 
+<div align='left'>
+<div id="header" align="center" >
+  <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/1c4094fa-5656-45d3-9aca-2b1101401ae6" width='950' height="350"  alt="perfect night"  />
+</div>
+<div align='center'> 
+  <h3>
+   𝑯𝒆𝒚 𝒕𝒉𝒆𝒓𝒆 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="35" height="35" />
+ 𝑰'𝒎 𝑺𝒉𝒂𝒉𝒓𝒂𝒎
+  </h3>
+</div> <br>
+
+<!--=================================== ABOUT ME ====================================-->
 # 💫 About Me:
 🔭 I am currently looking for work<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about front-end<br>
 
