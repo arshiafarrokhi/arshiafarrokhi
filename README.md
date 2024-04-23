@@ -111,8 +111,10 @@
 </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<div id="header" align="center" width="100" >
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=arshiafarrokhi&icon=5&color=0)](https://visitcount.itsvg.in)
 
