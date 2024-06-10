@@ -41,7 +41,7 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/framer-icon.svg" height="40" alt="Fremer logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-<br/>
+ <br/><br/>
 
 
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; I have experience using tools such as :  </h3>
@@ -51,8 +51,6 @@
   <img width="12" />
   <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/1921f9b9-413f-4e62-b1ce-b49c99cb6639" height="40" alt="react router logo"  />
   <img width="12" />
-
-  <br/>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
@@ -65,7 +63,7 @@
   <img width="8" />
 
 
- <br/><br/><br/>
+ <br/><br/>
 
 <!--=================================== My Hobbies ====================================-->
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="35"  /> &nbsp; Hobbies & Spare Time : </h3>
